@@ -24,7 +24,7 @@ public final class  defenciveCopy {
             this.p=p;
             this.a = new A(0, null);
             this.a.x= a.x;
-            this.a.str= a.str;
+            this.a.str= a.str;    
          */
      }
      

@@ -1,0 +1,6 @@
+hello56abc
+hello
+56
+abc
+Name: Ravi, Age: 22, CGPA: 8.57
+Name: Rohit, id: 24, percentage: 78.4877
